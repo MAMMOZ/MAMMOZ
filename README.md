@@ -1,6 +1,6 @@
 ## MAMMOZ
 
-![Node js](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+!!!![Node js](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 
 <!--
 **MAMMOZ/MAMMOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
