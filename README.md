@@ -1,7 +1,5 @@
 ## MAMMOZ
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mammoz&label=Profile%20views&color=0e75b6&style=flat" alt="mammoz" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/nonpawit.buapul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nonpawit.buapul/" height="30" width="40" /></a>
@@ -14,3 +12,12 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="30"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="30"/> </a> </p>
+
+<br/>
+<br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
